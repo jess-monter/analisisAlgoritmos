@@ -1,0 +1,10 @@
+Monter Gallardo Jessica
+305116941
+Práctica 1
+
+Para ejecutar el programa:
+1.- Compilar -> javac Grid.java
+2.- Correr ejecutable -> java Adoquinamiento
+3.- Introducir los datos que se piden
+4.- Se verá la animación del algoritmo de adoquinamiento.
+5.- Para cerrar y terminar el programa: en la terminal ctrl + c
